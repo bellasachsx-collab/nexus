@@ -22,8 +22,8 @@
 
 <br>
 
-<!-- REPLACE_URL: drag landing screenshot into GitHub editor to get real URL -->
-<img src="IMAGE_URL_LANDING" alt="NEXUS Landing Page" width="700">
+<img width="1287" height="740" alt="Снимок экрана 2026-04-03 в 12 42 47" src="https://github.com/user-attachments/assets/cfc23b5e-cfdb-4510-9799-65229dc33cb9" />
+
 
 <br>
 
@@ -116,8 +116,8 @@ One variable. Completely different outcome. That's stress-testing.
 
 <div align="center">
 
-<!-- REPLACE_URL: drag dashboard screenshot into GitHub editor to get real URL -->
-<img src="IMAGE_URL_DASHBOARD" alt="NEXUS Dashboard" width="700">
+<img width="1274" height="739" alt="Снимок экрана 2026-04-03 в 12 42 54" src="https://github.com/user-attachments/assets/bcf12f2a-e84b-49b2-a4a7-da88a2fc711a" />
+
 
 *Real dashboard showing 8 completed simulations across Startup, Marketing, and Pricing templates*
 
@@ -252,8 +252,8 @@ Payments: cards + crypto.
 
 <div align="center">
 
-<!-- REPLACE_URL: drag pricing screenshot into GitHub editor to get real URL -->
-<img src="IMAGE_URL_PRICING" alt="NEXUS Pricing — Token Packages and Simulation Tiers" width="700">
+<img width="1287" height="743" alt="Снимок экрана 2026-04-03 в 12 43 03" src="https://github.com/user-attachments/assets/5a4dd5e5-3a92-4dcb-9830-55cb87bbb276" />
+
 
 </div>
 
