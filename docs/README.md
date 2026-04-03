@@ -20,10 +20,10 @@
 ![Agents](https://img.shields.io/badge/agent_archetypes-500+-gold?style=flat-square)
 ![Simulations](https://img.shields.io/badge/simulations_run-200+-blue?style=flat-square)
 
-
 <br>
 
-<img width="1288" height="744" alt="Снимок экрана 2026-04-03 в 11 43 54" src="https://github.com/user-attachments/assets/6ece26c7-1d0b-42be-a522-47d832fca29f" />
+<!-- REPLACE_URL: drag landing screenshot into GitHub editor to get real URL -->
+<img src="IMAGE_URL_LANDING" alt="NEXUS Landing Page" width="700">
 
 <br>
 
@@ -116,8 +116,8 @@ One variable. Completely different outcome. That's stress-testing.
 
 <div align="center">
 
-<img width="1272" height="744" alt="Снимок экрана 2026-04-03 в 11 44 03" src="https://github.com/user-attachments/assets/f6f08451-9ff9-4720-86a4-c5b78c5c46c8" />
-
+<!-- REPLACE_URL: drag dashboard screenshot into GitHub editor to get real URL -->
+<img src="IMAGE_URL_DASHBOARD" alt="NEXUS Dashboard" width="700">
 
 *Real dashboard showing 8 completed simulations across Startup, Marketing, and Pricing templates*
 
@@ -252,8 +252,8 @@ Payments: cards + crypto.
 
 <div align="center">
 
-<img width="1212" height="742" alt="Снимок экрана 2026-04-03 в 11 44 15" src="https://github.com/user-attachments/assets/c08103c1-5320-4cb0-8bf5-021d7064c5dd" />
-
+<!-- REPLACE_URL: drag pricing screenshot into GitHub editor to get real URL -->
+<img src="IMAGE_URL_PRICING" alt="NEXUS Pricing — Token Packages and Simulation Tiers" width="700">
 
 </div>
 
@@ -340,6 +340,37 @@ Design philosophy: **prompt engineering > fine-tuning, self-learning > static ru
 - [ ] Team collaboration
 - [ ] Public API with webhooks
 - [ ] Mobile app
+
+---
+
+## Open vs. Proprietary
+
+This public repository contains documentation, methodology, and real simulation examples.
+
+The core simulation engine — agent orchestration, adversarial protocols, prompt architecture, and calibration data — is proprietary and runs at [nexus-sim.ink](https://nexus-sim.ink).
+
+| Public (this repo) | Proprietary (hosted engine) |
+|---|---|
+| Full example reports with agent conversations | Agent prompt architecture |
+| Simulation methodology documentation | Orchestration and scheduling logic |
+| Input/output format specifications | Archetype calibration data |
+| Pricing and feature comparison | Compression and optimization algorithms |
+| Case studies with retrospective analysis | Self-learning feedback pipeline |
+
+Want to see the engine in action? **[Run a free simulation →](https://nexus-sim.ink)**
+
+---
+
+## Methodology Notes
+
+NEXUS generates probability-weighted scenarios, not statistical predictions. Key methodology details:
+
+- **Scenario probabilities** (e.g., "63% failure probability") are derived from Bayesian aggregation of agent opinions weighted by expertise tier — not from historical backtesting. They represent simulated stakeholder consensus, not actuarial forecasts.
+- **Market data** (e.g., "131 cafes within 500m") is sourced from live queries to OpenStreetMap Overpass API and web search at simulation time. Each data point is timestamped in the report.
+- **Agent archetypes** are domain-specific behavioral profiles. Accuracy of archetype parameters is continuously refined through prompt A/B testing across completed simulations.
+- **Case studies** (Bud Light, Hertz, Barcelona Coffee Shop) are retrospective analyses performed after public outcomes were known. They demonstrate scenario-surfacing methodology, not ex-ante predictive certainty.
+
+Full methodology: [docs/how-it-works.md](docs/how-it-works.md)
 
 ---
 
