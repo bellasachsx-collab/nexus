@@ -20,10 +20,10 @@
 ![Agents](https://img.shields.io/badge/agent_archetypes-500+-gold?style=flat-square)
 ![Simulations](https://img.shields.io/badge/simulations_run-200+-blue?style=flat-square)
 
+
 <br>
 
-<!-- REPLACE_URL: drag landing screenshot into GitHub editor to get real URL -->
-<img src="IMAGE_URL_LANDING" alt="NEXUS Landing Page" width="700">
+<img width="1288" height="744" alt="Снимок экрана 2026-04-03 в 11 43 54" src="https://github.com/user-attachments/assets/6ece26c7-1d0b-42be-a522-47d832fca29f" />
 
 <br>
 
@@ -116,8 +116,8 @@ One variable. Completely different outcome. That's stress-testing.
 
 <div align="center">
 
-<!-- REPLACE_URL: drag dashboard screenshot into GitHub editor to get real URL -->
-<img src="IMAGE_URL_DASHBOARD" alt="NEXUS Dashboard" width="700">
+<img width="1272" height="744" alt="Снимок экрана 2026-04-03 в 11 44 03" src="https://github.com/user-attachments/assets/f6f08451-9ff9-4720-86a4-c5b78c5c46c8" />
+
 
 *Real dashboard showing 8 completed simulations across Startup, Marketing, and Pricing templates*
 
@@ -252,8 +252,8 @@ Payments: cards + crypto.
 
 <div align="center">
 
-<!-- REPLACE_URL: drag pricing screenshot into GitHub editor to get real URL -->
-<img src="IMAGE_URL_PRICING" alt="NEXUS Pricing — Token Packages and Simulation Tiers" width="700">
+<img width="1212" height="742" alt="Снимок экрана 2026-04-03 в 11 44 15" src="https://github.com/user-attachments/assets/c08103c1-5320-4cb0-8bf5-021d7064c5dd" />
+
 
 </div>
 
